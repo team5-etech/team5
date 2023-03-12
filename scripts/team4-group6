@@ -1,0 +1,16 @@
+Mar 11 13:57:42 team5 kernel: [  317.704232] loop5: detected capacity change from 0 to 102072
+Mar 11 13:57:43 team5 kernel: [  318.487178] kauditd_printk_skb: 11 callbacks suppressed
+Mar 11 13:57:43 team5 kernel: [  318.487181] audit: type=1400 audit(1678543063.629:37): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18357/usr/lib/snapd/snap-confine" pid=986 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.488672] audit: type=1400 audit(1678543063.633:38): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18357/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=986 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.505782] audit: type=1400 audit(1678543063.649:39): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.lxd" pid=988 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.514153] audit: type=1400 audit(1678543063.657:40): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.activate" pid=989 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.522287] audit: type=1400 audit(1678543063.665:41): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.benchmark" pid=990 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.530542] audit: type=1400 audit(1678543063.673:42): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.buginfo" pid=991 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.538754] audit: type=1400 audit(1678543063.681:43): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.check-kernel" pid=992 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.549104] audit: type=1400 audit(1678543063.693:44): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.daemon" pid=993 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.559221] audit: type=1400 audit(1678543063.701:45): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.hook.configure" pid=994 comm="apparmor_parser"
+Mar 11 13:57:43 team5 kernel: [  318.566091] audit: type=1400 audit(1678543063.709:46): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.hook.install" pid=995 comm="apparmor_parser"
+Mar 11 13:57:45 team5 kernel: [  320.146765] loop6: detected capacity change from 0 to 8
+Mar 11 13:57:52 team5 kernel: [  327.599427] loop6: detected capacity change from 0 to 113896
+Mar 11 13:57:53 team5 kernel: [  328.055421] loop7: detected capacity change from 0 to 129608
+nelson Francis Saada Dozie Juliet
