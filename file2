@@ -1,0 +1,6 @@
+#!/bin/bash
+whoami = to know who is currently using the terminal
+logname = -----initially log in
+su= switch user
+sudo = superuserdoer
+mkdir = make a directory
