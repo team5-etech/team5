@@ -29,5 +29,10 @@ stage('5-ops-check'){
         sh 'cat /etc/os.release'
     }
 }
+stage('5-new-check'){
+    steps{
+        sh 'cat /etc/os-release'
+    }
+
 
 }
